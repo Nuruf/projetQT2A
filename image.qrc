@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../Ressources/BackColor.png</file>
+        <file>../../Ressources/logoBlancPNG.png</file>
+        <file>../../Ressources/logoBleuPNG.png</file>
+        <file>../../Ressources/iconCOMP.png</file>
+    </qresource>
+</RCC>
